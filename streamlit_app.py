@@ -8,7 +8,7 @@ from io import BytesIO
 # =========================================
 
 st.set_page_config(
-    page_title="Data Publikasi Dosen",
+    page_title="Data Publikasi Dosen TRMO POLMAN",
     page_icon="📚",
     layout="wide"
 )
