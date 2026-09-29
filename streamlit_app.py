@@ -17,7 +17,7 @@ st.set_page_config(
 # JUDUL
 # =========================================
 
-st.title("📚 Data Publikasi Dosen")
+st.title("📚 Data Publikasi Dosen by Noer Fajrin")
 
 st.write(
     "Mengambil data publikasi dosen "
