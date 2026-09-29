@@ -8,7 +8,7 @@ from io import BytesIO
 # =========================================
 
 st.set_page_config(
-    page_title="Data Publikasi Dosen TRMO POLMAN",
+    page_title="Data Publikasi Dosen",
     page_icon="📚",
     layout="wide"
 )
@@ -17,11 +17,11 @@ st.set_page_config(
 # JUDUL
 # =========================================
 
-st.title("📚 Data Publikasi Dosen TRMO POLMAN")
+st.title("📚 Data Publikasi Dosen")
 
 st.write(
     "Mengambil data publikasi dosen "
-    "berdasarkan Google Scholar Author ID by Noer Fajrin."
+    "berdasarkan Google Scholar Author ID."
 )
 
 # =========================================
