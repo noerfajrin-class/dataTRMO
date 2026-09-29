@@ -17,11 +17,11 @@ st.set_page_config(
 # JUDUL
 # =========================================
 
-st.title("📚 Data Publikasi Dosen by Noer Fajrin")
+st.title("📚 Data Publikasi Dosen ")
 
 st.write(
     "Mengambil data publikasi dosen "
-    "berdasarkan Google Scholar Author ID."
+    "berdasarkan Google Scholar Author ID, by Noer Fajrin."
 )
 
 # =========================================
